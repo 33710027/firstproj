@@ -4,7 +4,7 @@
 - 前端地址：https://github.com/daxiongYang/renren-fast-vue
 <br> 
 <br>
- 
+ add 
 
 **具有如下特点** 
 - 友好的代码结构及注释，便于阅读及二次开发
