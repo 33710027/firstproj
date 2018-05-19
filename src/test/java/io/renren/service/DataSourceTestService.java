@@ -42,4 +42,8 @@ public class DataSourceTestService {
     public SysUserEntity queryUser2(Long userId){
         return sysUserService.selectById(userId);
     }
+    
+    public static void main(String args[]) {
+    	System.out.println("the first proj run");
+    }
 }
